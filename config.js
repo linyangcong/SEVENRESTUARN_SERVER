@@ -11,9 +11,9 @@ let mysql_config={
 // let staticServer='C://inetpub/wwwroot/WebView/sevenRestuarant'
 // let mysql_config={
 //     host:'localhost',
-//     passname:'root'
+//     passname:'root',
 //     password:'',
-//     database:'serverestuarant'
+//     database:'sevenrestuarant'
 // }
 
 
